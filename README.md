@@ -2,3 +2,14 @@ Machine Translation is the process of translating text from one language to anot
 
 
 Link to my research paper : https://www.researchgate.net/publication/360417746_Machine_Translation_Systems_for_English_Captions_to_Hindi_Language_Using_Deep_Learning
+
+
+Output Screeshots : 
+
+
+
+
+![image](https://github.com/manavjain179/Machine-Translation-Systems-for-English-Captions-to-Hindi-Language-Using-Deep-Learning/assets/59159721/6a7479d4-96b7-446b-b60a-da5ddec53b7c)
+
+
+![image](https://github.com/manavjain179/Machine-Translation-Systems-for-English-Captions-to-Hindi-Language-Using-Deep-Learning/assets/59159721/e233e85d-8897-4809-b39d-dc56e5489d67)
